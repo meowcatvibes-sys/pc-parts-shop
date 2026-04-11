@@ -1,0 +1,26 @@
+{
+  "short_name": "PC Parts",
+  "name": "TechForge PC Parts Shop",
+  "description": "Premium PC components and peripherals. Build your dream rig with top-tier parts.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00d4ff",
+  "background_color": "#0a0a0f",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["shopping", "technology"]
+}

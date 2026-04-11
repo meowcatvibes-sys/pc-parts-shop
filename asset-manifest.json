@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pc-parts-shop/static/css/main.412ebdfd.css",
+    "main.js": "/pc-parts-shop/static/js/main.07324d7d.js",
+    "static/js/453.181fa395.chunk.js": "/pc-parts-shop/static/js/453.181fa395.chunk.js",
+    "service-worker.js": "/pc-parts-shop/service-worker.js",
+    "index.html": "/pc-parts-shop/index.html",
+    "main.412ebdfd.css.map": "/pc-parts-shop/static/css/main.412ebdfd.css.map",
+    "main.07324d7d.js.map": "/pc-parts-shop/static/js/main.07324d7d.js.map",
+    "453.181fa395.chunk.js.map": "/pc-parts-shop/static/js/453.181fa395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412ebdfd.css",
+    "static/js/main.07324d7d.js"
+  ]
+}
